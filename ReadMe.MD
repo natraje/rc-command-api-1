@@ -5,6 +5,7 @@ This project is implemented with below technologies
  - Spring Rest Template
  - Java 8
  - Postgres SQL
+ - Postman to test this
 
 What needs to be done
 	- Make sure schema user is created
